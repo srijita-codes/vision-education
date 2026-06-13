@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Lumina: Inclusive Education for Visually Impaired",
+  "description": "A production-grade educational platform featuring AI-powered audio summaries, diagram narration, and voice-first interaction designed specifically for visually impaired students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
